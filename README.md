@@ -1,5 +1,5 @@
 # Hello, I'm CHANGEME
-<a href="https://www.linkedin.com/in/evanjeronis" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/evanjeronis/)
 
 [Brief Introduction - Remove this afterwards]
 
